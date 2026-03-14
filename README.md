@@ -1,6 +1,6 @@
 # Yape 2D - Playground
 
-This repo contains a test app to try the capabilities of [Yape2D](https://github.com/Hegodi/Yape2D) (Yet Another Game Engine).
+This repo contains a test app to try the capabilities of [Yape2D](https://github.com/Hegodi/Yape2D) (Yet Another Physics Engine).
 This Playground includes a graphics user interface which allows you to play and test
 different features of the engine. Currently it supports windows and web via emscripten. 
 
